@@ -30,8 +30,8 @@ This project aims to analyze financial data from S&P 500 companies to uncover va
 ## Insights
 
 - The total market cap is 25 Trillion Dollars
-- CenturyLink Inc provides the highest dividend yiled with 12.66%
-- The IT and Consumer Staples have a high average of EBITDA.
+- CenturyLink Inc offers the highest dividend yield, making it an attractive option for income-focused investors.
+- The IT and Consumer Staples have a high average of EBITDA, showcasing their high profitablility,
 - Ford, GM and Navient are good undevalued picks
 - CenturyLink Inc is the highest recommended from my analysis as it is undervalued and has a high dividend yield.
 
@@ -46,26 +46,31 @@ Dashboard Preview
 ## SQL Analysis
 
 ### 1. Total Market Capitalization
-- **Query:** [`sql/total_market_cap.sql`](sql/total_market_cap.sql)  
+- **Query:** [`sql/total_market_cap.sql`](sql/total_market_cap.sql)
+- Used for finding the sum of all market caps.
 
 
 
 ### 2. Percentage Increase from 52 Week Low to High
-- **Query:** [`sql/percentage_increase.sql`](sql/percentage_increase.sql)  
+- **Query:** [`sql/percentage_increase.sql`](sql/percentage_increase.sql)
+- Shows how much stocks have grown relative to their 52 week low.
 
 
 
 ### 3. Undervalued Stocks (Low P/E and P/B)
 - **Query:** [`sql/value_stocks.sql`](sql/value_stocks.sql)  
-- **Logic:** P/E < 15, P/B < 1.5, and P/E > 0  
+- **Logic:** P/E < 15, P/B < 1.5, and P/E > 0
+- Shows stocks based on the above mentioned constraints of P/E and P/B ratios.
 
 
 ### 4. Top Sectors by Average EBITDA
-- **Query:** [`sql/top_sector_ebitda.sql`](sql/top_sector_ebitda.sql)  
+- **Query:** [`sql/top_sector_ebitda.sql`](sql/top_sector_ebitda.sql)
+- Shows the top 5 sectors based on the average of their EBITDA
 
 
 ### 5. Top 5 Companies by Dividend Yield
 - **Query:** [`sql/top_dividend_yield.sql`](sql/top_dividend_yield.sql)
+- Shows the top 5 stocks in terms of Dividend Yield %
 
   
 
