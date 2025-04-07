@@ -41,7 +41,7 @@ This project aims to analyze financial data from S&P 500 companies to uncover va
 Dashboard Preview
 ![Power BI Dashboard](powerbi/dashboard_preview.png)
 
-- **PowerBI file:**[`.pbix file`](powerbi/s&p 500 analysis.pbix)
+- **PowerBI file:**[`.pbix file`](powerbi/sp_500_analysis.pbix)
 
 ##SQL Analysis
 
