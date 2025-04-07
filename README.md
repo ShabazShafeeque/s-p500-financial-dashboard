@@ -43,7 +43,7 @@ Dashboard Preview
 
 - **PowerBI file:**[`.pbix file`](powerbi/sp_500_analysis.pbix)
 
-##SQL Analysis
+## SQL Analysis
 
 ### 1. Total Market Capitalization
 - **Query:** [`sql/total_market_cap.sql`](sql/total_market_cap.sql)  
