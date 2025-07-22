@@ -32,7 +32,7 @@ This project aims to analyze financial data from S&P 500 companies to uncover va
 - The total market cap is 25 Trillion Dollars
 - CenturyLink Inc offers the highest dividend yield, making it an attractive option for income-focused investors.
 - The IT and Consumer Staples have a high average of EBITDA, showcasing their high profitablility,
-- Ford, GM and Navient are good undevalued picks
+- Ford, GM and Navient are good undervalued picks
 - CenturyLink Inc is the highest recommended from my analysis as it is undervalued and has a high dividend yield.
 
 
