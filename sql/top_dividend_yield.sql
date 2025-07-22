@@ -8,6 +8,7 @@ ORDER BY
 LIMIT 5;
 
 
+
  Output:
 -- +----------------------------+------------------+
 -- | Name                      | Dividend Yield    |
