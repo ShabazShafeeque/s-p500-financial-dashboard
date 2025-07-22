@@ -10,6 +10,7 @@ ORDER BY
 LIMIT 5;
 
 
+
 Output:
 -- +------------------------------+-----------------+
 -- | Sector                       | Sector_EBITDA   |
